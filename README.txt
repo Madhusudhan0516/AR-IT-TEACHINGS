@@ -1,0 +1,1 @@
+11 images has to be replaced because they haven't occupy the total circle in the Menu
